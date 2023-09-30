@@ -2,7 +2,9 @@
 
 ###
 
-<p align="center">Python & AI Enthusiast | Smart Contract Developer | Developing Minecraft plugins as a hobby.</p>
+<p align="center">Python & AI Enthusiast</p>
+<p align="center">Freelance Smart Contract Developer on <a href="https://www.fiverr.com/selcukwashere" target="_blank" rel="noopener noreferrer">Fiverr</a></p>
+<p align="center">Software Engineering Undergraduate @<a href="https://www.kocaeli.edu.tr/" target="_blank" rel="noopener noreferrer">Kocaeli University</a></p>
 
 ###
 <br/>
