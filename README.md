@@ -4,10 +4,9 @@
 
 <p align="center">Python & AI Enthusiast</p>
 <p align="center">Freelance Smart Contract Developer on <a href="https://www.fiverr.com/selcukwashere" target="_blank" rel="noopener noreferrer">Fiverr</a></p>
-<p align="center">Software Engineering Undergraduate @Kocaeli University</p>
+<p align="center">Software Engineering Undergraduate at Kocaeli University</p>
 
 ###
-<br/>
 
 <h2 align="center">Skills</h2>
 
@@ -51,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div><br/>
+</div>
 
 ###
 
