@@ -3,8 +3,7 @@
 ###
 
 <p align="center">Python & AI Enthusiast</p>
-<p align="center">Freelance Smart Contract Developer on <a href="https://www.fiverr.com/selcukwashere" target="_blank" rel="noopener noreferrer">Fiverr</a></p>
-<p align="center">Software Engineering Undergraduate at Kocaeli University</p>
+<p align="center">Smart Contract Developer</p>
 
 ###
 
