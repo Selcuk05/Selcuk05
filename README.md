@@ -4,6 +4,6 @@ I'm **Selçuk**, and I mostly work with Python and Solidity. I currently focus o
 
 <h2>💪 Skills</h2>
 
-![My Skills](https://skillicons.dev/icons?i=python,solidity,java,selenium,tensorflow,js,ts,react,mongodb,sqlite,mysql)
+![My Skills](https://skillicons.dev/icons?i=python,solidity,java,selenium,tensorflow,pytorch,opencv,js,ts,react,mongodb,sqlite,mysql,c,cs,cpp,docker,raspberrypi,arduino)
 
 
